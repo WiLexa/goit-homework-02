@@ -38,7 +38,7 @@ body {
   text-transform: uppercase;
 }
 .header-logo-studio {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 800;
@@ -49,7 +49,7 @@ body {
 .header-list {
 }
 .header-list-item {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -78,10 +78,10 @@ body {
 /* ---------------------------------------------- */
 /* index-section-hero */
 .hero {
-  background: var(--navyblue);
+  background: var(--navy-blue);
 }
 .hero-title {
-  color: var(--white, #fff);
+  color: var(--white);
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -89,7 +89,7 @@ body {
   letter-spacing: 0.02em;
 }
 .hero-button {
-  color: var(--white, #fff);
+  color: var(--white);
   font-family: "Roboto", sans-serif;
   background: var(--iris);
   font-size: 16px;
@@ -110,7 +110,7 @@ body {
 .advantages-list {
 }
 .advantages-subtitle {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -129,7 +129,7 @@ body {
 .heading {
 }
 .heading-title {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -146,7 +146,7 @@ body {
   background: var(--cloud);
 }
 .team-heading {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   text-align: center;
   font-size: 36px;
   font-weight: 700;
@@ -159,7 +159,7 @@ body {
 .team-img {
 }
 .team-name {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -196,14 +196,14 @@ body {
 .content-list {
 }
 .content-link {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
 .content-title {
-  color: var(--navyblue);
+  color: var(--navy-blue);
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -220,7 +220,7 @@ body {
 /* ---------------------------------------------- */
 /* index/portfolio-seaction-footer */
 .footer {
-  background: var(--navyblue);
+  background: var(--navy-blue);
 }
 .header-logo {
   color: var(--iris);
