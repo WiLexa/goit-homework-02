@@ -39,7 +39,7 @@ body {
 }
 .header-logo-studio {
   font-family: "Raleway", sans-serif;
-  color: #2e2f42;
+  color:var(--navy-blue);
   font-size: 18px;
   font-weight: 800;
   line-height: 1.17;
