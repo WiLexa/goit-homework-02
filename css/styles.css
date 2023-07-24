@@ -1,7 +1,6 @@
 :root {
   --iris: #4d5ae5;
   --ocean: #404bbf;
-  --navy-blue: #2e2f42;
   --green: #31d0aa;
   --slate: #434455;
   --light-slate: #8e8f99;
@@ -9,6 +8,7 @@
   --cloud: #f4f4fd;
   --white: #ffffff;
   --dairy: #fcfcfc;
+  --navy-blue: #2e2f42;
 }
 body {
   font-family: "Roboto", sans-serif;
