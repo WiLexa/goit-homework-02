@@ -17,7 +17,6 @@ body {
 }
 .list {
   list-style-type: none;
-  background-color: #ffffff;
 }
 .link {
   text-decoration: none;
@@ -144,7 +143,7 @@ body {
 /* ---------------------------------------------- */
 /* index-seaction-team */
 .team {
-  background: var(--cloud);
+  background: var(--white);
 }
 .team-heading {
   color: var(--navy-blue);
@@ -156,9 +155,9 @@ body {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-img {
+  background-color: #ffffff;
 }
 .team-name {
   color: var(--navy-blue);
