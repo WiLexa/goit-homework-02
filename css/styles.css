@@ -38,7 +38,7 @@ body {
   text-transform: uppercase;
 }
 .header-logo-studio {
-  color: var(--navy-blue, #2e2f42);
+  color: var(--navy-blue);
 }
 .header-list {
 }
