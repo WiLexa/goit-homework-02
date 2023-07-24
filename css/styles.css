@@ -20,6 +20,7 @@ body {
 }
 .link {
   text-decoration: none;
+  font-style: normal;
 }
 /* index/portfolio-header */
 .header {
@@ -37,8 +38,8 @@ body {
   text-transform: uppercase;
 }
 .header-logo-studio {
-  color: var(--navy-blue);
   font-family: "Raleway", sans-serif;
+  color: var(--navy-blue);
   font-size: 18px;
   font-weight: 800;
   line-height: 1.17;
@@ -143,7 +144,7 @@ body {
 /* ---------------------------------------------- */
 /* index-seaction-team */
 .team {
-  background: var(--white);
+  background: var(--cloud);
 }
 .team-heading {
   color: var(--navy-blue);
