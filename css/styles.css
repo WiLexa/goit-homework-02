@@ -121,7 +121,7 @@ body {
 /* index-section-advantages */
 /* ---------------------------------------------- */
 /* index-seaction-heading */
-.heading {
+/* .heading {
 }
 .heading-title {
   color: var(--navy-blue);
@@ -133,7 +133,7 @@ body {
   text-transform: capitalize;
 }
 .heading-list {
-}
+} */
 /* index-seaction-heading */
 /* ---------------------------------------------- */
 /* index-seaction-team */
@@ -171,7 +171,7 @@ body {
 /* index-seaction-team */
 /* ---------------------------------------------- */
 /* Portfolio-main */
-.button-list {
+/* .button-list {
 }
 .button-menu {
   color: var(--iris);
@@ -188,7 +188,7 @@ body {
 .button-menu:focus {
   color: var(--white);
   background-color: var(--ocean);
-}
+} */
 .content-list {
 }
 .content-link {
@@ -238,3 +238,9 @@ body {
   letter-spacing: 0.02em;
 }
 /* index/portfolio-seaction-footer */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
